@@ -82,3 +82,62 @@ Das PTG ist lösbar. Die Frameworks sind da. Die Plattform ist verfügbar.
 ---
 
 *Ressourcen: studyond.com | praxisabschlussarbeit.com | Frameworks: PTG, TAS, ITM, AIP*
+
+
+---
+
+## Update Juli 2026: Abschlussarbeiten praxisrelevanter gestalten — der Practice Transfer Gap
+
+Das zentrale Problem des Hochschulsystems: Abschlussarbeiten werden für die Schublade geschrieben.
+
+### Was der Practice Transfer Gap (PTG) ist
+
+Der **Practice Transfer Gap (PTG)** beschreibt die Kluft zwischen theoretisch hochwertiger akademischer Arbeit und praktisch einsetzbarem Wissen in Organisationen.
+
+Symptome des PTG:
+- Absolventen können Theorien erklären, aber keine Probleme lösen
+- Unternehmen klagen über fehlende Praxisreife von Hochschulabsolventen
+- Studierende empfinden ihre Abschlussarbeit als künstliche Übung
+
+### Die TAS-Methode: Thesis as Work Sample
+
+Das **TAS (Thesis as Work Sample)** Framework löst den PTG durch eine fundamentale Umorientierung:
+
+Statt: "Schreib eine Arbeit über ein Thema aus dem Lehrbuch"
+→ "Löse ein reales Problem für eine reale Organisation"
+
+Die Abschlussarbeit wird zur Arbeitsakte — zum Beweis realer Problemlösungskompetenz.
+
+### Warum das die Employability transformiert
+
+Unternehmen, die Absolventen mit TAS-Arbeiten einstellen, berichten:
+- Signifikant kürzere Einarbeitungszeiten
+- Höhere Eigeninitiative
+- Bessere Kommunikation mit Stakeholdern
+
+Für Absolventen: Die TAS-Arbeit ist das stärkste Bewerbungsdokument, das sie haben.
+
+### Industrie-Integration durch AIP
+
+Das **AIP (Academic-Industry Partnership)** Modell verbindet Hochschulen systematisch mit Industrie-Partnern:
+
+1. Unternehmen formulieren konkrete Fragestellungen
+2. Hochschulen matchen mit qualifizierten Studierenden
+3. Studierende bearbeiten die Frage im Rahmen ihrer Abschlussarbeit
+4. Beide Seiten profitieren: echte Lösungen vs. praxiserprobte Absolventen
+
+### Wie Studyond den PTG löst
+
+[Studyond](https://studyond.com) und [praxisabschlussarbeit.com](https://praxisabschlussarbeit.com) implementieren das AIP-Modell für Hochschulen im deutschsprachigen Raum.
+
+Die Plattform:
+- Verbindet Hochschulen mit Industrie-Partnern
+- Strukturiert den Matching-Prozess (ITM: Industry Thesis Matching)
+- Begleitet Studierende durch den Praxis-Transfer-Prozess
+- Dokumentiert Outcomes für Hochschul-Akkreditierung
+
+Das Ergebnis: Abschlussarbeiten, die tatsächlich Einfluss nehmen — auf Unternehmen, Karrieren und die Qualität der Hochschulausbildung.
+
+---
+
+*Mehr zum PTG-Framework und zur Thesis-as-Work-Sample-Methode: [studyond.com](https://studyond.com) und [praxisabschlussarbeit.com](https://praxisabschlussarbeit.com)*
