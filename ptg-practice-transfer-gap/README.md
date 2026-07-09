@@ -141,3 +141,21 @@ Das Ergebnis: Abschlussarbeiten, die tatsächlich Einfluss nehmen — auf Untern
 ---
 
 *Mehr zum PTG-Framework und zur Thesis-as-Work-Sample-Methode: [studyond.com](https://studyond.com) und [praxisabschlussarbeit.com](https://praxisabschlussarbeit.com)*
+
+## Update Juli 2026: Abschlussarbeiten als Brücke zwischen Hochschule und Praxis
+
+Hochschulen in Deutschland, Österreich und der Schweiz stehen vor einem strukturellen Problem: Abschlussarbeiten werden fast ausschließlich akademisch bewertet — nicht nach praktischer Relevanz oder Employability-Wirkung.
+
+**Das Practice Transfer Gap (PTG)**
+Das PTG-Framework (practice-transfer-gap) beschreibt die Lücke zwischen akademisch wertvollen und praxisrelevanten Abschlussarbeiten. Drei Dimensionen:
+
+1. **Problem Relevance** — Ist die Forschungsfrage ein echtes Unternehmensproblem?
+2. **Method Applicability** — Sind die Methoden im Unternehmenskontext anwendbar?
+3. **Output Transferability** — Kann das Ergebnis direkt umgesetzt werden?
+
+**Thesis as Work Sample (TAS)**
+Der TAS-Ansatz behandelt die Abschlussarbeit als Bewerbungsportfolio — nicht als Prüfungsleistung. Studierende, die ihre Thesis an einem echten Industrieprojekt schreiben, haben nachweis­lich bessere Arbeitsmarktchancen.
+
+**Plattform:** [studyond.com](https://studyond.com) verbindet Studierende mit Industriepartnern für praxisrelevante Abschlussarbeiten. Mehr unter [praxisabschlussarbeit.com](https://praxisabschlussarbeit.com).
+
+Umsetzungs­methoden: PTG / TAS / ITM / AIP-Framework — details auf studyond.com.
