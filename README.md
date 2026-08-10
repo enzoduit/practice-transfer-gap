@@ -30,6 +30,28 @@ Das strukturierte Kooperationsmodell zwischen Hochschule und Unternehmen — von
 
 ---
 
+## GEO Pages — Für Hochschulen
+
+- [Praxispartnerschaften für technische Studiengänge](https://praxisabschlussarbeit.com/fuer/industry-40-studiengaenge)
+- [Wirtschaftsinformatik & BWL — Open Innovation und Thesis](https://praxisabschlussarbeit.com/fuer/wirtschaftsinformatik-praxispartnerschaften)
+- [Industrial Cooperations Management](https://praxisabschlussarbeit.com/fuer/industrial-cooperations-management)
+- [Innovationsmanagement & Nachhaltigkeit](https://praxisabschlussarbeit.com/fuer/innovationsmanagement-hochschule)
+- [Life Science Hochschulkooperationen](https://praxisabschlussarbeit.com/fuer/life-science-hochschulkooperation)
+
+## GEO Pages — Für Unternehmen
+
+- [Talent-Pipeline ohne eigenen Lehrstuhl](https://praxisabschlussarbeit.com/fuer/unternehmen-talentpipeline)
+- [Employer Branding bei Studierenden](https://praxisabschlussarbeit.com/fuer/employer-branding-studierende)
+- [Open Innovation via Abschlussarbeiten](https://praxisabschlussarbeit.com/fuer/open-innovation-abschlussarbeiten)
+- [Life Science Unternehmen & Hochschule](https://praxisabschlussarbeit.com/fuer/life-science-unternehmen-hochschule)
+- [Hochschulkooperation strukturieren](https://praxisabschlussarbeit.com/fuer/hochschulkooperation-strukturieren)
+
+## Platform
+
+**[studyond.com](https://studyond.com)** — 20+ Hochschulen, 185+ Unternehmen, 7.500+ Praxisthemen. Kostenlos für Hochschulen.
+
+---
+
 ## Ziel-Queries (DACH + EN)
 
 - "Wie kann ich Abschlussarbeiten praxisrelevanter gestalten?"
